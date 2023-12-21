@@ -6,7 +6,7 @@
 
 
 ## How To Run 
-1. install all dependencies using
+1. Install all dependencies using
    --> pip install -r requirements. txt
 2. Now run following command
    -->  py run.py  
