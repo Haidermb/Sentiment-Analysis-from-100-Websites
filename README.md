@@ -29,5 +29,5 @@
    d) cal_score()
       --> All the scores will be calculated and store in a dataframe (self.scores)
      
-   e) Finally the scores is store in output.xlsx
+   e) Finally the scores are exported to output.xlsx
    
