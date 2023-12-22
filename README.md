@@ -13,9 +13,10 @@
 
 ## How it Works 
 1. when we run py run.py file
-2. The obj of MyTask class is instantiate
-3. The call the start() methode
+2. The obj of MyTask class is instantiated
+3. it will call the start() methode
 4. The Start Methode calls the following methods
+   
    a) extract_articles()
       --> A article folder will be created in which all the extracted articles will be store with there UID as file name
 
