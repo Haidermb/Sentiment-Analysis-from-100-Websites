@@ -282,13 +282,13 @@ class MyTask:
 
     def start(self):
         # Extract articles from urls
-        #self.__extract_articles()
+        self.__extract_articles()
         
         # Extract stopwords from Stopword folder
-        #self.__extract_stopwords()
+        self.__extract_stopwords()
 
         # Removing stopwords from articles
-        #self.__clean_articles()
+        self.__clean_articles()
 
         # Cal scores 
         self.__cal_score()
